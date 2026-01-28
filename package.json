@@ -1,10 +1,10 @@
 {
-  "name": "my-v0-project",
+  "name": "my-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev",
+    "dev": "node scripts/dev.js",
     "lint": "eslint .",
     "start": "next start"
   },

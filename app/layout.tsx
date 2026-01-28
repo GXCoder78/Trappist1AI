@@ -19,7 +19,6 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: SITE.title,
   description: SITE.description,
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
